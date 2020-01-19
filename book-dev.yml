@@ -1,5 +1,5 @@
-hello = hellee44
-version = 2
+hello: hellee44
+version: 2
 
 spring:
   rabbitmq:
