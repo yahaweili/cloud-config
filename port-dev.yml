@@ -1,0 +1,23 @@
+
+monitor:
+  dashboard:
+    port: 10104
+  turbine:
+    port: 10105
+
+physical:
+  book:
+    port: 10201
+  person:
+    port: 10202
+
+route:
+  zuul:
+    port: 10301
+
+auth:
+  authentication:
+    port: 10402
+
+
+
